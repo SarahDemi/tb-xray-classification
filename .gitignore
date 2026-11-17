@@ -15,3 +15,4 @@ data/
 # notebook noise
 .ipynb_checkpoints/
 __pycache__/
+.DS_Store
