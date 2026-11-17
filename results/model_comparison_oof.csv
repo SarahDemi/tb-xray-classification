@@ -1,0 +1,4 @@
+comparison,auc_diff,ci_low,ci_high,significant
+ResNet50 - DenseNet121,0.032,-0.006,0.073,no
+ResNet50 - Custom CNN,0.249,0.167,0.325,yes
+DenseNet121 - Custom CNN,0.216,0.139,0.288,yes
